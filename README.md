@@ -1,4 +1,4 @@
-# ☢️ ARCHIVE EXPLORER // V4.2
+#  ARCHIVE EXPLORER 
 
 ### A Cyber-Industrial Interface for the Open Library
 
@@ -8,7 +8,7 @@ We stripped away the soft, friendly rounded corners of modern web design and rep
 
 ---
 
-## 🌌 The "Vibe" (Design Philosophy)
+##  The Design Philosophy
 
 Most websites try to look invisible. This website tries to look like a machine.
 
@@ -19,7 +19,7 @@ Most websites try to look invisible. This website tries to look like a machine.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. The 3D "Infinite Floor"
 The background isn't a video or a picture. It is a **live 3D simulation** running right in your browser.
@@ -51,7 +51,7 @@ If the dark terminal is too hard on your eyes, you can toggle **Display Mode**.
 
 ---
 
-## 🛠️ How It Works (Under the Hood)
+##  How It Works (Under the Hood)
 
 Even though it looks like a movie prop, it's built on very modern technology:
 
@@ -62,7 +62,7 @@ Even though it looks like a movie prop, it's built on very modern technology:
 
 ---
 
-## 🚦 How to Run This System
+##  How to Run This System
 
 If you want to boot this up on your own machine:
 
